@@ -1,0 +1,13 @@
+<web-app>
+
+  <servlet>
+    <servlet-name>CarTax</servlet-name>
+    <servlet-class>CarTax</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>CarTax</servlet-name>
+    <url-pattern>/CarTax</url-pattern>
+  </servlet-mapping>
+
+</web-app>
